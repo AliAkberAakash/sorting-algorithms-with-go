@@ -5,3 +5,6 @@ BASE_PATH=github.com/AliAkberAakash/sorting-algorithms-with-go
 
 # test quicksort
 go test $BASE_PATH/quicksort
+
+# test mergesort
+go test $BASE_PATH/mergesort
